@@ -1,0 +1,55 @@
+{
+  "Hercules C2": {
+    "manufacturer": "Crusader Industries",
+    "role": "Heavy Transport",
+    "cargo_sections": [
+      { "id": "front", "grid": "c2_front" },
+      { "id": "rear", "grid": "c2_rear" }
+    ]
+  },
+  "Drake Caterpillar": {
+    "manufacturer": "Drake Interplanetary",
+    "role": "Heavy Transport",
+    "cargo_sections": [
+      {
+        "id": "module_1",
+        "grids": [
+          "caterpillar_module_1_section_1",
+          "caterpillar_module_1_section_2",
+          "caterpillar_module_1_section_3"
+        ]
+      },
+      {
+        "id": "module_2",
+        "grids": [
+          "caterpillar_module_2_section_1",
+          "caterpillar_module_2_section_2",
+          "caterpillar_module_2_section_3"
+        ]
+      },
+      {
+        "id": "module_3",
+        "grids": [
+          "caterpillar_module_3_section_1",
+          "caterpillar_module_3_section_2",
+          "caterpillar_module_3_section_3"
+        ]
+      },
+      {
+        "id": "module_4",
+        "grids": [
+          "caterpillar_module_4_section_1",
+          "caterpillar_module_4_section_2",
+          "caterpillar_module_4_section_3"
+        ]
+      },
+      {
+        "id": "nose_module",
+        "grids": [
+          "caterpillar_nose_module_section_1",
+          "caterpillar_nose_module_section_2"
+        ]
+      }
+    ]
+  }
+}
